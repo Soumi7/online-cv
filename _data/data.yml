@@ -107,12 +107,9 @@ experiences:
       time: September 2019 - December 2019
       company: cppsecrets.com
       details: |
-        Well written articles and tutorials on deep learning.
-          - Using several deep learning methods to create
-          models.
-          - Create frontend and backend applications to host the models
-          on cloud.
-          - Docker and AWS
+        Well written articles and tutorials on several python libraries.
+          - Implementation of SQL Alchemy ORM for creating Flask Applications
+          - Functions of OS Module in python and implementations, tutorials
 projects:
     title: Projects
     intro: >
