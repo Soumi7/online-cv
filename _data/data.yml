@@ -86,9 +86,9 @@ experiences:
       time: 
       company: ITMR Lab, IIIT Allahabad
       details: |
-        Work involves research on various image 
-          - Bullet point
-          - Bullet point
+        Work involves research on various image processing techniques.
+          - Working on a Research paper for ASD diagnosis
+          - Computer Vision, Deep learning
     - role: Technical Writer
       time: March 2020 - present
       company: Analytics Vidhya
@@ -172,14 +172,14 @@ skills:
       - name: Python & Django
         level: 98%
 
-      - name: Tensorflow
-        level: 98%
+      - name: Tensorflow & Pytorch
+        level: 88%
 
       - name: Flask
         level: 98%
 
       - name: Scipy
-        level: 95%
+        level: 85%
 
 
 footer: >
