@@ -131,13 +131,13 @@ model for Stock Prediction On Walmart FMCG Retail dataset"
         link: "#"
         tagline: "Zulip Bot for Competitive programming, Hackathon updates, Jobs and more!"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
       - title: Basket
         link: "#"
         tagline: "A Slot booking management system to enable social distancing"
+        
+      - title: Java Virtual Lab
+        link: "#"
+        tagline: "A java Virtual lab for QPSK waveform conversions and visualization"
 
 publications:
     title: Publications
@@ -152,7 +152,19 @@ publications:
       - title: "Named Entity Recognition"
         link: "https://medium.com/@soumibardhan10/named-entity-recognition-simple-transformers-flask-rest-api-ec14a7a444cb"
         authors: 
-        conference:
+        conference: 
+        
+      - title: "Python Tkinter Application to switch between different Page Frames"
+        link: "https://www.geeksforgeeks.org/tkinter-application-to-switch-between-different-page-frames/"
+        authors: 
+        conference: 
+        
+      - title: "Python Tkinter Application to switch between different Page Frames"
+        link: "https://www.geeksforgeeks.org/tkinter-application-to-switch-between-different-page-frames/"
+        authors: 
+        conference: 
+        
+        
 skills:
     title: Skills &amp; Proficiency
 
