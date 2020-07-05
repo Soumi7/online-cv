@@ -158,13 +158,7 @@ publications:
       - title: "Named Entity Recognition"
         link: "https://medium.com/@soumibardhan10/named-entity-recognition-simple-transformers-flask-rest-api-ec14a7a444cb"
         authors: 
-        conference: 
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
+        conference:
 skills:
     title: Skills &amp; Proficiency
 
