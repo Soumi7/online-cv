@@ -24,6 +24,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
+    medium : https://medium.com/@soumibardhan10
 
     languages:
       - idiom: English
