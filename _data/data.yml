@@ -89,6 +89,36 @@ experiences:
         Work involves research on various image 
           - Bullet point
           - Bullet point
+    - role: Technical Writer
+      time: March 2020 - present
+      company: Analytics Vidhya
+      details: |
+        Well written articles and tutorials on deep learning.
+          - Using several deep learning methods to create
+          models.
+          - Create frontend and backend applications to host the models
+          on cloud.
+          - Docker and AWS
+    - role: Technical Writer
+      time: March 2020 - present
+      company: Data Driven Investor
+      details: |
+        Well written articles and tutorials on deep learning.
+          - Using several deep learning methods to create
+          models.
+          - Create frontend and backend applications to host the models
+          on cloud.
+          - Docker and AWS
+    - role: Python Developer
+      time: September 2019 - December 2019
+      company: Data Driven Investor
+      details: |
+        Well written articles and tutorials on deep learning.
+          - Using several deep learning methods to create
+          models.
+          - Create frontend and backend applications to host the models
+          on cloud.
+          - Docker and AWS
 projects:
     title: Projects
     intro: >
