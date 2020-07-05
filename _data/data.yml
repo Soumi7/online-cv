@@ -147,10 +147,8 @@ model for Stock Prediction On Walmart FMCG Retail dataset"
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    intro: Visit my medium https://medium.com/@soumibardhan10 for more!
+      
     papers:
       - title: Dockerzing and hosting your Flask Web app(REST API) on AWS EC2
         link: "https://medium.com/datadriveninvestor/dockerizing-and-hosting-your-flask-web-app-rest-api-on-aws-ec2-9f9c189bf563"
