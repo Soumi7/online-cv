@@ -69,13 +69,14 @@ experiences:
           models.
           - Create frontend and backend applications to host the models
           on cloud.
-    - role: Techical writer
+    - role: Technical writer
       time: June 2020 - present
       company: The Startup
       details: |
         The Startup is a medium publication. I write technical articles mostly NLP.
           - Natural Language Processing
           - Deep Learning
+          - BERT(Bidirectional Encoder Representations from Transformers)
     - role: Research Intern
       time: 
       company: ITMR Lab, IIIT Allahabad
@@ -92,7 +93,8 @@ experiences:
           models.
           - Create frontend and backend applications to host the models
           on cloud.
-          - Docker and AWS
+          - Using pycaret to create several regression models and tuning.
+          - LSTMs for Stock Prediction
     - role: Technical Writer
       time: April 2020 - present
       company: Data Driven Investor
