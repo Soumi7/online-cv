@@ -61,12 +61,12 @@ education:
     
 experiences:
     - role: Google Season of Docs 2020
-      time: 
+      time: August 2020
       company: Sympy
       details: |
         Sympy is a lighweight independant computer algebra system written entirely in python.
     - role: Developer Student Clubs Lead IIITK
-      time: 
+      time: August 2020
       company: DSC 
       details: Developer Student Clubs are university based community groups for students interested in Google developer technologies. 
         Sympy is a lighweight independant computer algebra system written entirely in python.
