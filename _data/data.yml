@@ -49,7 +49,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am currently involved in research in Computer Vision and NLP.
+      DSC Lead IIITKalyani | I am currently involved in research in Computer Vision and NLP.
       I am an enthusiastic open source contributor and am currently
       working on projects in the ML domain.
 education:
@@ -60,8 +60,18 @@ education:
         
     
 experiences:
+    - role: Google Season of Docs 2020
+      time: 
+      company: Sympy
+      details: |
+        Sympy is a lighweight independant computer algebra system written entirely in python.
+    - role: Developer Student Clubs Lead IIITK
+      time: 
+      company: DSC 
+      details: Developer Student Clubs are university based community groups for students interested in Google developer technologies. 
+        Sympy is a lighweight independant computer algebra system written entirely in python.
     - role: Software Developer Intern
-      time: 2020 - present
+      time: June 2020 - August 2020
       company: Hiranya Growth Partners LLP
       details: |
         Using NLP to create scalable applications in the finance domain.
@@ -95,16 +105,6 @@ experiences:
           on cloud.
           - Using pycaret to create several regression models and tuning.
           - LSTMs for Stock Prediction
-    - role: Technical Writer
-      time: April 2020 - present
-      company: Data Driven Investor
-      details: |
-        Well written articles and tutorials on deep learning.
-          - Using several deep learning methods to create
-          models.
-          - Create frontend and backend applications to host the models
-          on cloud.
-          - Docker and AWS
     - role: Python Developer
       time: September 2019 - December 2019
       company: cppsecrets.com
